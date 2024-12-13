@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Dishmi Shenara</h1>
+<h1 align="center">Hi 👋 I'm Dishmi Weerakoon</h1>
 <h3 align="center">Undergraduate Computer Engineer | Passionate In Mobile App Developing | Building Innovative Solutions</h3>
 
 
