@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Dishmi Shenara</h1>
 <h3 align="center">Undergraduate Computer Engineer | Passionate In Mobile App Developing | Building Innovative Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dahamadikari&label=Profile%20views&color=0e75b6&style=flat" alt="dahamadikari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dahamadikari&label=Profile%20views&color=0e75b6&style=flat" alt="dishmiweerakoon" /> </p>
 
-- 🌱 I’m currently learning **C++, Java, Dart,**
+- 🌱 I’m currently learning **C++, Java, Dart, Python**
 
-- 📫 How to reach me **daham0712@gmail.com**
+- 📫 How to reach me **dishmiweerakoon@gmail.com**
 
-<h3 align="left">Connect with me: <a href = "https://www.linkedin.com/in/daham-t-adikari-ba48771ba/">Linkedin</h3>
+<h3 align="left">Connect with me: <a href = "https://www.linkedin.com/in/dishmi-weerakoon-28b891277/">Linkedin</h3>
 <p align="left">
 </p>
 
